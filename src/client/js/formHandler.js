@@ -48,4 +48,4 @@ async function fetchData() {
   }
 }
 
-export { fetchData };
+export { fetchData, handleSubmit };
